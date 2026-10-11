@@ -1,2 +1,2 @@
-# ai-audio
 This is a project which can help you make audios with AI offline ! (This project turns words into audio ,mp3)
+If you want to download it and don't want to download it from github , you can try this link : https://wwbuh.lanzoul.com/imCjb4blge9g pass:123456
